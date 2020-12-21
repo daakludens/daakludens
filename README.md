@@ -3,14 +3,29 @@
 
 <br>
 
-🔭 현재 게임 [ESD 서비스 프로젝트](https://github.com/f-lab-edu/ludensdomain)를 진행 중입니다.     
-    My current project deals with ESD, electronic service distributor for games.      
-    <br>
-🌱 배우는 기술은 자바, 스프링, 자바스크립트, 마이바티스, 마리아DB 입니다.        
-    Currently I am learning Java, Spring, JavaScript, MyBatis, MariaDB and so on.       
-    <br>
-⚡ 재미있게 봐주세요!    
-    Please do enjoy your visit on my GitHub page!
+### 🔭 현재 프로젝트 
+[게임 ESD 프로젝트](https://github.com/f-lab-edu/ludensdomain)를 진행 중입니다.     
+My current project deals with ESD, electronic service distributor for games.      
+
+<br>
+
+### 🌱 기술
+사용하는 기술
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+배우고 싶은 기술들
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
     
 <!--
 **daakludens/daakludens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
