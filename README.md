@@ -1,11 +1,9 @@
 ### 안녕하세요! 👋
 [![daakludens's github stats](https://github-readme-stats.vercel.app/api?username=daakludens&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
-<br>
-
 ### 🔭 현재 프로젝트 
 [게임 ESD 프로젝트](https://github.com/f-lab-edu/ludensdomain)를 진행 중입니다.     
-My current project deals with ESD, electronic service distributor for games.      
+My current project deals with ESD, electronic service distributor for games.
 
 ### 🌱 기술
 사용하는 기술
