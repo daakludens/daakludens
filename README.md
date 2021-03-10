@@ -1,4 +1,3 @@
-### 안녕하세요! 👋
 [![daakludens's github stats](https://github-readme-stats.vercel.app/api?username=daakludens&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 ### 🔭 현재 프로젝트 
