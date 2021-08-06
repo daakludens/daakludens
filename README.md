@@ -1,3 +1,8 @@
+안녕하세요.😄       
+느리더라도 조금씩 성장하는 마음가짐으로 배워가고 있는 백엔드 주니어 개발자입니다.          
+
+<br>
+
 [![daakludens's github stats](https://github-readme-stats.vercel.app/api?username=daakludens&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 ### 🔭 현재 프로젝트 
@@ -7,20 +12,18 @@ My current project deals with ESD, electronic service distributor for games.
 ### 🌱 기술
 사용하는 기술
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 배우고 싶은 기술들
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
     
 <!--
 **daakludens/daakludens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
