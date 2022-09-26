@@ -1,13 +1,16 @@
-안녕하세요.😄       
-느리더라도 조금씩 성장하는 마음가짐으로 배워가고 있는 백엔드 주니어 개발자입니다.          
+Hello!
+I am Hee Jae Ahn, a junior backend developer living in Seoul!
 
 <br>
 
 [![daakludens's github stats](https://github-readme-stats.vercel.app/api?username=daakludens&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
-### 🔭 현재 프로젝트 
+### 현재
+nextstep 코스로 자바 기본기 다지기 + TDD에 대해 공부하고 있습니다.
+
+### 🔭 이전 프로젝트 
 [게임 ESD 프로젝트](https://github.com/f-lab-edu/ludensdomain)를 진행 중입니다.     
-My current project deals with ESD, electronic service distributor for games.
+My previous project deals with ESD, electronic service distributor for games.
 
 ### 🌱 기술
 사용하는 기술
